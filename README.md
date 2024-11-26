@@ -8,6 +8,8 @@ layout: default
 
 This course covers fundamental concepts in data science through hands-on programming assignments and practical applications.
 
+No solutions are provided so that current students can't cheat on their homeworks :)
+
 ### Topics Covered
 
 - **Basic Python & Jupyter**: Fundamentals of scientific computing
