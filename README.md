@@ -23,10 +23,6 @@ This course covers fundamental concepts in data science through hands-on program
 ### Homework Assignments
 Each homework focuses on implementing and understanding key concepts:
 
-{% for hw in site.data.homework %}
-- **HW{{hw.number}}**: {{hw.topic}}
-{% endfor %}
-
 ### Section Materials
 Weekly sections provide hands-on practice with:
 - Jupyter notebook basics
