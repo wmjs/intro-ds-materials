@@ -35,7 +35,7 @@ Weekly sections provide hands-on practice with:
 
 ## Prerequisites
 
-- Python 3.11+
+- Python
 - Key Python packages:
   - numpy
   - pandas 
