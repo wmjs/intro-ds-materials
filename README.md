@@ -43,11 +43,3 @@ Weekly sections provide hands-on practice with:
   - scikit-learn
   - scipy
 
-## Getting Started
-
-1. Clone the repository
-2. Install required packages
-3. Launch Jupyter notebook
-4. Navigate to the desired homework/section folder
-
-
